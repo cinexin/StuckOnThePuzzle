@@ -13,8 +13,8 @@ Download the project, open the puzzle.html file and that's all
 ---------------------------------------
 Ricardo Cavolo ( http://ricardocavolo.com )
 
-4. How can you/we improve this simple app?
-------------------------------------------
+4. How can you/we can improve the game?
+----------------------------------------
 For instance...
 - Adding more puzzles and letting the user to choose his favourite
 - Making a better management of piece collisions (sigh!)
@@ -22,12 +22,16 @@ For instance...
 - Adding difficulty levels (by adding the number of pieces, for example)
 
 5. Did you use any JS libraries for this?
---------------------------------------
-Yep. The great iioEngine ( http://iioengine.com )
+------------------------------------------
+Yep. The great iioEngine framework ( http://iioengine.com )
 
-6. Who are you?
+6. Why "Stuck On The Puzzle" if the puzzle is such an easy one?
+---------------------------------------------------------------
+You're right, this is only an excuse to honour the song in the Submarine OST by Alex Turner
+https://vimeo.com/27908671
+
+7. Who are you?
 ---------------
-
 Migue Guillamón
 migueguillamon@gmail.com
 http://twitter.com/cineexin
